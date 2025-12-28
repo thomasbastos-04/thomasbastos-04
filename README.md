@@ -1,59 +1,42 @@
 # 👨‍💻 Thomas Bastos
 
 **Desenvolvedor Full Stack Pleno**  
-Especializado em aplicações web modernas, APIs REST e soluções escaláveis.
-
-Atuo no desenvolvimento de sistemas completos, desde o backend até o frontend, com foco em **qualidade de código**, **boas práticas**, **arquitetura limpa** e **performance**.
+Foco em backend (.NET/C#), frontend (TypeScript/React) e construção de aplicações web escaláveis, com boas práticas, arquitetura limpa e desempenho.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Full Stack Pleno  
-- 🧠 Experiência com **C# / .NET**, **TypeScript**, **Node.js** e **React**
-- 🏗️ Desenvolvimento de **APIs REST** e **SPAs**
-- ☁️ Integrações com **Azure**, bancos de dados SQL e NoSQL
+- 💼 Desenvolvedor Full Stack Pleno  
+- 🧠 C# / .NET, TypeScript, Node.js e React  
+- 🔌 APIs REST e integrações  
+- ☁️ Azure e bancos SQL / NoSQL  
 - 📍 Mongaguá – SP, Brasil  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-### 🔹 Visão Geral
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasbastos-04&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+### ✅ Visão geral (commits, stars, etc.)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasbastos-04&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400)
+
+### ✅ Sequência de commits (streak) — LINK CORRIGIDO (sem Heroku)
+![GitHub Streak](https://streak-stats.demolab.com?user=thomasbastos-04&theme=dark&cache_seconds=86400)
+
+### ✅ Linguagens mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbastos-04&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
-### 🔹 Commits
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=thomasbastos-04&theme=dark)
+## 🔀 Pull Requests e contribuição
 
----
+### ✅ Métricas avançadas (inclui PRs merged, reviews, etc.)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=thomasbastos-04&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400)
 
-### 🔹 Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbastos-04&layout=compact&theme=dark)
-
----
-
-## 🔀 Pull Requests e Contribuições
-
-![PRs](https://github-readme-stats.vercel.app/api?username=thomasbastos-04&show_icons=true&theme=dark&include_all_commits=true)
-
-📌 **Resumo técnico**:
-- Alto volume de **commits consistentes**
-- Participação ativa em **Pull Requests**
-- Contribuições contínuas em projetos **backend e frontend**
-- Foco em **manutenibilidade e escalabilidade**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Backend:** C#, .NET, ASP.NET Core, Node.js  
-- **Frontend:** TypeScript, React, HTML, CSS  
-- **Banco de Dados:** SQL Server, PostgreSQL  
-- **Cloud:** Microsoft Azure  
-- **Versionamento:** Git, GitHub  
-- **Arquitetura:** REST, Clean Architecture  
+**Resumo técnico**
+- Contribuições consistentes em projetos backend e frontend  
+- Participação ativa via Pull Requests e revisão de código  
+- Prioridade em manutenibilidade, escalabilidade e padrões de qualidade  
 
 ---
 
@@ -62,7 +45,3 @@ Atuo no desenvolvimento de sistemas completos, desde o backend até o frontend, 
 - 🌐 Site: https://thomasbastos.com.br  
 - 💼 LinkedIn: https://www.linkedin.com/in/thomasbastos  
 - ✉️ Email: thomasbastos2004@gmail.com  
-
----
-
-⭐ _Perfil focado em evolução contínua, boas práticas e entrega de soluções robustas._
