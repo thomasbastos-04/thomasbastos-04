@@ -8,10 +8,31 @@ Foco em backend (.NET/C#), frontend (TypeScript/React) e construção de aplica�
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor Full Stack Pleno  
-- 🧠 C# / .NET, TypeScript, Node.js e React  
-- 🔌 APIs REST e integrações  
-- ☁️ Azure e bancos SQL / NoSQL  
+- 🧠 **Ampla experiência** com **PHP (Laravel)**, **NestJS**, **Next.js**, **React** e **Vue.js**  
+- ⚙️ Forte atuação com **C# / .NET**, **TypeScript** e **Node.js**  
+- 🔌 Desenvolvimento de **APIs REST**, integrações e sistemas distribuídos  
+- ☁️ Azure e bancos de dados **SQL e NoSQL**  
 - 📍 Mongaguá – SP, Brasil  
+
+## 🛠️ Principais Tecnologias
+
+**Backend**
+- PHP (Laravel)
+- NestJS
+- C# / .NET
+- Node.js
+
+**Frontend**
+- React
+- Next.js
+- Vue.js
+- TypeScript
+
+**Infra / Outros**
+- Azure
+- SQL Server, PostgreSQL, NoSQL
+- Git e GitHub
+
 
 ---
 
