@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thomasbastos-04/vistor.ia-api/refs/heads/main/docs/assets/logo.png" alt="Vistor.ia" width="180" />
-</p>
-
 <h1 align="center">Thomas Felipe Bastos</h1>
 
 <p align="center">
