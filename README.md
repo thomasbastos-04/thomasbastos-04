@@ -104,11 +104,11 @@ Desenvolvimento e evolução de sistemas ligados à operação portuária, comer
 
 ### Grupo Adriano Cobuccio / BrasilCard
 
-Desenvolvimento de sistemas para o setor financeiro e de crédito, com atuação em **APIs, PostgreSQL, processamento assíncrono e workers em Go**.
+Desenvolvimento de sistemas para o setor financeiro e de crédito, com atuação em **APIs, PostgreSQL, processamento assíncrono e workers em Go, PHP**.
 
 ### CodeLoop — Full Stack Developer
 
-Desenvolvimento de aplicações nacionais e internacionais, com foco em **PHP/Laravel, JavaScript/TypeScript e frameworks modernos de frontend**.
+Desenvolvimento de aplicações nacionais e internacionais, com foco em **.NET, PHP/Laravel, JavaScript/TypeScript e frameworks modernos de frontend**.
 
 ---
 
